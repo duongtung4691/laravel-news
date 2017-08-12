@@ -7,6 +7,10 @@
         {
             "name": "Jeroen Noten",
             "email": "jeroennoten@me.com"
+        },
+        {
+            "name": "Gorka Urrutia",
+            "email": "info@gulvi.com"
         }
     ],
     "autoload": {

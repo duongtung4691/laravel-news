@@ -1,5 +1,5 @@
 {
-    "name": "jeroennoten/laravel-news",
+    "name": "gorkau/laravel-news",
     "description": "Laravel News",
     "keywords": ["laravel", "news", "cms"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "JeroenNoten\\LaravelNews\\": "src/"
+            "UrlanHeat\\LaravelNews\\": "src/"
         }
     },
     "autoload-dev": {
